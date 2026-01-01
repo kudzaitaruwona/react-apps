@@ -1,2 +1,2 @@
 # react-apps
-where i i test react feature and make react apps
+where i test react feature and make react apps
